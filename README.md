@@ -15,6 +15,9 @@ Unity（C#）を使用して個人開発しました。
 
 そこで、どこにいても、音楽を聴きながら直感的にコードを操作し、試行錯誤できるモバイルツールを自作することにしました。
 
+<img width="1266" height="585" alt="IMG_7242" src="https://github.com/user-attachments/assets/7896ae20-d5a6-421c-a11f-8753c2635a29" />
+<img width="1266" height="585" alt="IMG_7243" src="https://github.com/user-attachments/assets/b1314730-56a8-4a0a-b57d-a89adce30d0e" />
+
 ## 主な機能
 
 - コード進行の作成・再生
