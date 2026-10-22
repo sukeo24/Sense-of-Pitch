@@ -51,3 +51,14 @@ Unity（C#）を使用して個人開発しました。
 自分自身の課題を出発点として、機能設計・UI実装・実機検証・改善まで一連の開発プロセスを経験しました。
 
 また、UIにこだわりすぎると時間がいくらあっても足りないということを実感しました。
+
+## 音源・ライセンス
+
+本アプリでは、ピアノ音源として **Salamander Grand Piano V3**（Yamaha C5）を使用しています。
+
+- **音源**：Salamander Grand Piano V3
+- **制作者**：Alexander Holm
+- **ライセンス**：[Creative Commons Attribution 3.0 (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/)
+- **変更内容**：アプリ内で使用するため、音源を個別のWAVファイルとして加工・配置しています。
+
+音源の著作権は原著作者に帰属します。
